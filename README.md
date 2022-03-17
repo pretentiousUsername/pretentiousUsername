@@ -1,8 +1,6 @@
 Howdy!
 
-I'm a first-year undergraduate physics student at Temple University.
-Most of my work so far is with physics, electronics, and DSP, though
-I do more than that lol.
+I'm an undergrad at Temple University. Most of my interests are in physics, DSP, and stuff like that—but I do way more than that on here lol.
 
 <!---
 pretentiousUsername/pretentiousUsername is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
