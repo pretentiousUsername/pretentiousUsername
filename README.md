@@ -1,7 +1,3 @@
-Howdy!
-
-I'm in between colleges at the moment, but I guess I'm still a physics undergrad.
-
 My main interests are in condensed matter physics, electronics (mostly for music), DSP, and game development. For a while I did most of my coding in
 Python, but I got sick of it being slow for a lot of the numerical stuff I was doing—and I didn't feel like learning Cython or numba—so I'm learning Julia 
 right now.
