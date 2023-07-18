@@ -1,4 +1,4 @@
-My main interests are in condensed matter physics, electronics (mostly for music), DSP, and game development.
+My main interests are in physics, electronics (mostly for synthesizers and all that), DSP, and game development.
 
 <!---
 pretentiousUsername/pretentiousUsername is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
